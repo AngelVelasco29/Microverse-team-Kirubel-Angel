@@ -11,3 +11,8 @@
         height: 80vh;
     }
 }
+
+#navbar{
+    position: fixed;
+    top: 0px; 
+}
